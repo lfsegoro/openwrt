@@ -1,0 +1,2 @@
+see the tutorial here: https://www.youtube.com/c/TeknisiWifi/videos
+Soc: MT7620A + MT7610EN
